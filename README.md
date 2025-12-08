@@ -6,5 +6,5 @@ Personal notes for learning, experimenting, and reusing smart contract code.
 - Remix
 
 - - - - - - - - - - 
-
+- BTC / Bitcoin
 - ETH / Ethereum
