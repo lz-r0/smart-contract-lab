@@ -4,3 +4,7 @@ Personal notes for learning, experimenting, and reusing smart contract code.
 - Solidity
 - ERC-20
 - Remix
+
+- - - - - - - - - - 
+
+- ETH / Ethereum
